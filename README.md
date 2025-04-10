@@ -22,5 +22,4 @@ methodologies, OWASP Top 10, and basic exploit techniques. Passionate about ethi
 ## Contact
 - Email:(noorsaper64@gmail.com)
 - Phone:(+201015064819)
-- LinkedIn: [Noor-Eldin-Saper](https://www.linkedin.com/in/noor-\eldin-\saper)
-
+- LinkedIn: [Noor-Eldin-Saper](https://www.linkedin.com/in/noor-eldin-saper-018b542a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
