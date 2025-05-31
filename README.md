@@ -19,7 +19,7 @@ methodologies, OWASP Top 10, and basic exploit techniques. Passionate about ethi
 - Ethical Hacking (Mahara-Tech)
 - Penetration Testing (Information Systems Security and Hacking)
 
-##Valid vulnerabilities Reported 
+## Valid vulnerabilities Reported 
 - Bugcrowd (https://medium.com/@noorsaper64/%EF%B8%8F-sensitive-data-exposure-via-wp-json-in-wordpress-d1dee7318d3b)
 - Bugcrowd (https://medium.com/@noorsaper64/%EF%B8%8F-cve-2018-15473-username-enumeration-in-openssh-5d066f1c11af)
 
